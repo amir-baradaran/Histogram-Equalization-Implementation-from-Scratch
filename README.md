@@ -1,0 +1,2 @@
+# Histogram-Equalization-Implementation-from-Scratch
+This project utilizes object-oriented programming to implement an image processing pipeline from scratch without relying on any external image processing libraries. The process involves converting color images to grayscale, applying gamma correction on grayscale images, and implementing histogram equalization for both color and grayscale images.
